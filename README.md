@@ -91,6 +91,15 @@ A multi-platform strategy ensures stable performance and consistent conversion r
 
 ---
 
+## 📂 Repository Structure
+As shown in the project directory, the files are organized as follows:
+* 📂 1- Data Source: Raw & cleaned campaign datasets.
+* 📂 2- Jupyter Notebook: Python EDA, Feature Engineering & ML Modeling.
+* 📂 3- Power BI Dashboard:  Interactive .pbix analytics hub.
+* 📂 Dashboard Image: Dashboard Screenshots for project documentation.
+
+---
+
 ## 📫 Connect with Me
 Mohamed Saleh
 * Linkedin: https://linkedin.com/in/mohamed-sale7
